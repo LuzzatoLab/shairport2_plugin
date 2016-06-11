@@ -7,10 +7,10 @@
       <title lang="EN">ShairTunes2</title>
       <desc lang="EN">Airtunes for LMS</desc>
       <url>
-        https://raw.github.com/disaster123/shairport2_plugin/master/ShairTunes2.zip
+        https://raw.github.com/luzzatolab/shairport2_plugin/master/ShairTunes2.zip
       </url>
-      <link>https://github.com/disaster123/shairport2_plugin</link>
-      <sha>ad891d9a8fa662cb417ee0a03d6bee03d6efc7f8</sha>
+      <link>https://github.com/luzzatolab/shairport2_plugin</link>
+      <sha>6117cd3974e6d151b02fa7ff2f0b9633889f051e</sha>
       <creator>disaster123</creator>
       <email>disaster123@users.noreply.github.com</email>
     </plugin>

@@ -4,7 +4,7 @@
 	<name>PLUGIN_SHAIRTUNES2</name>
 	<module>Plugins::ShairTunes2::Plugin</module>
 	<playerMenu>RADIO</playerMenu>
-	<version>0.19a</version>
+	<version>0.20</version>
 	<description>PLUGIN_SHAIRTUNES2_DESC</description>
 	<creator>disaster123</creator>
 	<defaultState>enabled</defaultState>
