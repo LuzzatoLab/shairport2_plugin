@@ -20,7 +20,7 @@ OSX:
 
 Now open the LMS GUI; click on Settings, then select the Plugins tab, at the bottom of the page add the repo:
 
-http://raw.github.com/disaster123/shairport2_plugin/master/public.xml
+http://raw.github.com/luzzatolab/shairport2_plugin/master/public.xml
 
 Next install the plugin and enable as usual.
 
@@ -57,3 +57,8 @@ Then restart avahi-daemon and LMS to apply all settings.
 DMSTK - for doing the intial work and starting this great project
 stuartUSA - for bringing it to the masses
 chincheta0815 - for the OS autodetect and base work on metadata/covers
+
+== Additional Notes ==
+
+This version has been midified from the Disaster123 version to allow synching of video and audio when using airplay. As such the START_FILL variable in hairtunes.c was changed to 205 (instead of 64).
+For quick testing, the executable shairtunes_helper from the src folder can be copied to cp shairport_helper /var/lib/squeezeboxserver/cache/InstalledPlugins/Plugins/ShairTunes2/helperBinaries/shairport_helper-x64-linux after compiles (executable destination name will be different based on sys type)

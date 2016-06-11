@@ -59,7 +59,7 @@ static int debug = 0;
 const char *version = "0.2";
 
 // default buffer size
-#define START_FILL    32
+#define START_FILL    205
 #define MIN_FILL      32
 #define BUFFER_FRAMES 1024
 #define MAX_PACKET    2048
